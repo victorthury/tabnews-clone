@@ -1,2 +1,3 @@
 # tabnews-clone
-Implementação clone do htpps://www.tabenews.com.br 
+
+Implementação clone do htpps://www.tabenews.com.br
