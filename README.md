@@ -11,3 +11,29 @@ Recomendo rodar no codespaces
 ```sh
 nvm install
 ```
+
+### Subir os serviços
+
+```sh
+npm run services:up
+```
+
+### Rodar localmente
+
+```sh
+npm run dev
+```
+
+### Rodar testes
+
+Primeiro rodar em um terminal:
+
+```sh
+npm run dev
+```
+
+Em outro terminal rodar:
+
+```sh
+npm run test
+```
